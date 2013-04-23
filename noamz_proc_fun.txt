@@ -1,0 +1,19 @@
+1. /prop/sys/kernel/version
+#28-Ubuntu SMP Tue Oct 9 19:32:08 UTC 2012
+
+2. /proc/filesystems
+ext3 is supported
+
+3. /proc/swaps
+Filename				Type		Size	Used	Priority
+/dev/sda5                               partition	522236	232828	-1
+
+4. /proc/6428/cmdline
+ssh eniac
+
+5. /proc/6438/cmdline
+/usr/lib/firefox/firefox
+
+6. /proc/cpuinfo
+cpu MHz		: 2294.367
+
